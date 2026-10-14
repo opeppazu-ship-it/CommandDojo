@@ -4,9 +4,9 @@
 
 ## ダウンロード
 
-👉 **[最新版をダウンロード](https://github.com/opeppazu-ship-it/CommandDojo/releases/latest)**
+👉 **[CommandDojo_v0.3.zip をダウンロード](https://github.com/opeppazu-ship-it/CommandDojo/raw/main/download/CommandDojo_v0.3.zip)**（約58MB）
 
-ページの下の「Assets」にある **CommandDojo_v0.3.zip** を押すとダウンロードできます。
+押すとすぐにダウンロードが始まります。
 
 ## はじめかた
 
